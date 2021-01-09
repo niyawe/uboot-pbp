@@ -1,0 +1,4 @@
+pkg/
+src/
+u-boot/
+*.pkg.tar.zst
